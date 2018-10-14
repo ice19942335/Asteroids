@@ -1,0 +1,7 @@
+D:\C#\GIT\Asteroids\Lambdas_Fun\bin\Debug\Lambdas_Fun.exe.config
+D:\C#\GIT\Asteroids\Lambdas_Fun\bin\Debug\Lambdas_Fun.exe
+D:\C#\GIT\Asteroids\Lambdas_Fun\bin\Debug\Lambdas_Fun.pdb
+D:\C#\GIT\Asteroids\Lambdas_Fun\obj\Debug\Lambdas_Fun.csprojAssemblyReference.cache
+D:\C#\GIT\Asteroids\Lambdas_Fun\obj\Debug\Lambdas_Fun.csproj.CoreCompileInputs.cache
+D:\C#\GIT\Asteroids\Lambdas_Fun\obj\Debug\Lambdas_Fun.exe
+D:\C#\GIT\Asteroids\Lambdas_Fun\obj\Debug\Lambdas_Fun.pdb

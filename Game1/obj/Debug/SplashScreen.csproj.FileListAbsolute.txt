@@ -1,0 +1,12 @@
+D:\C#\GIT\Asteroids\Game1\bin\Debug\Properties\AssemblyInfo.cs
+D:\C#\GIT\Asteroids\Game1\bin\Debug\Game1.exe.config
+D:\C#\GIT\Asteroids\Game1\bin\Debug\Game1.exe
+D:\C#\GIT\Asteroids\Game1\bin\Debug\Game1.pdb
+D:\C#\GIT\Asteroids\Game1\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+D:\C#\GIT\Asteroids\Game1\obj\Debug\Game1.Properties.Resources.resources
+D:\C#\GIT\Asteroids\Game1\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+D:\C#\GIT\Asteroids\Game1\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+D:\C#\GIT\Asteroids\Game1\obj\Debug\Game1.exe
+D:\C#\GIT\Asteroids\Game1\obj\Debug\Game1.pdb
+D:\C#\GIT\Asteroids\Game1\bin\Debug\ConsoleLog.txt
+D:\C#\GIT\Asteroids\Game1\bin\Debug\Records.txt

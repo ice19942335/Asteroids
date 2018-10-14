@@ -1,0 +1,7 @@
+D:\C#\GIT\Asteroids\Lesson_6\bin\Debug\Lesson_6.exe.config
+D:\C#\GIT\Asteroids\Lesson_6\bin\Debug\Lesson_6.exe
+D:\C#\GIT\Asteroids\Lesson_6\bin\Debug\Lesson_6.pdb
+D:\C#\GIT\Asteroids\Lesson_6\obj\Debug\Lesson_6.csprojAssemblyReference.cache
+D:\C#\GIT\Asteroids\Lesson_6\obj\Debug\Lesson_6.csproj.CoreCompileInputs.cache
+D:\C#\GIT\Asteroids\Lesson_6\obj\Debug\Lesson_6.exe
+D:\C#\GIT\Asteroids\Lesson_6\obj\Debug\Lesson_6.pdb
